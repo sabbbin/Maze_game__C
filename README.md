@@ -1,0 +1,1 @@
+# maze_type_game
